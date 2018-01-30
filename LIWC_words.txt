@@ -1,0 +1,10 @@
+aaien 12 13 39
+aan 10
+aanbad 12 13 14 57 58 38
+aanbaden 12 13 14 57 58 38
+aanbeden 12 13 14 57 58 38
+aanbid  12 13 14 57 58 39
+aanbidden 12 13 14 57 58 39
+aanbidt 12 13 14 57 58 39
+aanblik 27 28
+aanbreken 39
